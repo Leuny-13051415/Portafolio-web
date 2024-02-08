@@ -1,0 +1,38 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    background-image: url(back.avif);
+    font-size: 20px; 
+}
+.lit{
+    border-radius: 110px;
+    box-shadow: 0 0 20px gold;
+}
+.lit:hover{
+    box-shadow: 0 0 30px blue;
+}
+.colap{
+    color: gold;
+    border-radius: 5px;
+    box-shadow: 0 0 10px cyan;
+}
+.colap:hover{
+    background-color: #1d608b;
+    transition: ease-in .5s;
+}
+.ck{
+    color: aqua;
+}
+.mc{
+    color: aqua;
+}
+a{
+    color: gold;
+    text-decoration: none;
+    box-shadow: 0 0 10px ;
+    border-radius: 5px;
+}
+a:hover{
+    color: #1d608b;
+    box-shadow: 0 0 15px aqua;
+    background-color: gold;
+}

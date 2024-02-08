@@ -1,0 +1,38 @@
+body{
+    background-image: url(back.avif);
+}
+.lig{
+    background-color: aqua;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+.lig{
+    border-radius: 30px;
+}
+
+
+img{
+    border-radius: 110px;
+    box-shadow: 0 0 40px gold;
+
+}
+img:hover{
+    box-shadow: 0 0 50px  cyan;
+    transition: ease-in .5s;
+}
+.nav{
+    text-decoration: none; 
+}
+.nav:hover{
+    box-shadow: 0 0 5px gold;
+    background-color: aquamarine;
+    border-radius: 8px;
+    color: blue;
+}
+input{
+    border-radius: 8px;
+    padding: 3px;
+}
+
+

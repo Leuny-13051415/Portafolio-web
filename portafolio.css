@@ -1,0 +1,111 @@
+body{
+    background-image: url(back.avif);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    color: aqua;
+}
+
+.logo{
+    width: 70px;
+    height: 70px;
+    border-radius: 40px;
+    box-shadow: 0 0 10px gold;
+    position: relative;
+}
+
+.cart{
+   text-decoration: none;
+   width: 50%;
+   color: wheat;
+   
+   
+}
+.cart:hover{
+    color: gold;
+   
+    
+   
+}
+.old{
+color: gold;
+border-radius: 5px;
+box-shadow: 0 0 10px cyan;
+}
+
+.old:hover{
+    color: black;
+   background-color: gold;
+   transition: ease-in .5s;
+   
+}
+.pk{
+    color: gold;
+    border-radius: 5px;
+   box-shadow: 0 0 10px cyan;
+}
+.pk:hover{
+    color: black;
+    background-color: gold;
+    transition: ease-in .5s;
+}
+.lk{
+    color: gold;
+    border-radius: 5px;
+    box-shadow: 0 0 10px cyan;
+}
+.lk:hover{
+    color: black;
+    background-color:gold ;
+    transition: ease-in .5s;
+}
+
+nav{
+    margin-left: 400px;
+    justify-content: space-between;
+    display: flex;
+    width: 50%;
+}
+.pl{
+    color: gold;
+   
+    margin-left:450px ;
+    border-radius: 19px;
+    box-shadow: 0 0 10px cyan;
+}
+.pl:hover{
+    background-color: #1d608b;
+    transition: ease-in .5s;
+}
+
+
+.lik{
+    
+        margin-left: 60%;
+        border-radius: 40px;
+        box-shadow: 0 0 20px aqua;
+}
+.lik:hover{
+    box-shadow: 0 0 40px blue;
+    transition: ease-in .6s;
+}
+
+.br{
+    padding-right: 200px;
+  
+}
+
+.pw{
+    text-decoration: none;
+    color: gold;
+}
+.pw:hover{
+    color: #29b5ca;
+}
+
+h3{
+    color: goldenrod;
+} 
+
+
+
+   
